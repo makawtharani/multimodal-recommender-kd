@@ -38,6 +38,8 @@ venv.bak/
 # Data files (likely large)
 data/raw/
 data/processed/
+data/interim/
+data/embedded/
 *.csv
 *.json
 *.jsonl
